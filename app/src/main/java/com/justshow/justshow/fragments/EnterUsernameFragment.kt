@@ -15,7 +15,6 @@ class EnterUsernameFragment : Fragment(R.layout.fragment_enter_user_name) {
         val binding = FragmentEnterUserNameBinding.bind(view)
         binding.submit.setOnClickListener {
             //TODO, figure out the launch with parameters
-            launch(RepoListFragment())
         }
 
     }
