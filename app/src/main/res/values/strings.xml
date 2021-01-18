@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">JustShow</string>
-    <string name="description">Please Ask for the username in this page and pass on the info the next fragment. Use the below button to figure out and launch the next page.</string>
+    <string name="description">Please Ask for the username in this page and pass on the info to next fragment. Use the below button to figure out and launch the next page.</string>
     <string name="title">Welcome to JustShow</string>
     <string name="repolist_description">Please use this fragment to show the list of repositories by the specified username. Use <b><i>https://api.github.com/users/{username}/repos</i></b> to fetch the list</string>
     <string name="repolist_title">List Users repositories here</string>
