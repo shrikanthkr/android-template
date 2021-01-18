@@ -1,0 +1,7 @@
+include ':repository'
+include ':core'
+include ':network'
+
+include ':models'
+include ':app'
+rootProject.name = "JustShow"
