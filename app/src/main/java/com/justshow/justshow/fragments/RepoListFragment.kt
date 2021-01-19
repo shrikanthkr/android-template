@@ -17,6 +17,5 @@ class RepoListFragment : DaggerFragment(R.layout.fragment_repo_list) {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        viewModel.kick()
     }
 }
